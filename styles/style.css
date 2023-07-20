@@ -376,6 +376,9 @@ footer .game-types p {
 }
 
 @media screen and (min-width: 576px) and (max-width: 962px) {
+  .banner{
+    width: 90%;
+  }
   .banner-text {
     width: 55%;
     padding: 5px 10px;
